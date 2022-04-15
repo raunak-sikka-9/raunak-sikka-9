@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @raunak-sikka-9
+- 👋 Hi, I’m Raunak
 - 👀 I’m interested in Coding, Problem Solving, Helping
 - 🌱 I’m currently learning Full stack Web Development, Python 
 - 💞️ I’m looking to collaborate on ...
