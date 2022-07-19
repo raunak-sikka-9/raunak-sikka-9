@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Raunak
-- 👀 I’m interested in Coding, Problem Solving, Helping
-- 🌱 I’m currently learning Full stack Web Development, Python 
-- 💞️ I’m looking to collaborate on ... Nothing much here, folks!
+- 👀 I’m interested in Coding, Problem Solving, Creating stuffs and projects out of code
+- 🌱 I’m currently learning Full Stack Web Development (ReactJs)
 - 📫 How to reach me - raunak@sikkanet.com
 
 <!---
